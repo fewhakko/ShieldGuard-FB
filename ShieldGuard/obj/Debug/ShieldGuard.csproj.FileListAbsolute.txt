@@ -1,0 +1,10 @@
+C:\Users\ThePzFew\source\repos\ShieldGuard\ShieldGuard\bin\Debug\ShieldGuard.exe.config
+C:\Users\ThePzFew\source\repos\ShieldGuard\ShieldGuard\bin\Debug\ShieldGuard.exe
+C:\Users\ThePzFew\source\repos\ShieldGuard\ShieldGuard\bin\Debug\ShieldGuard.pdb
+C:\Users\ThePzFew\source\repos\ShieldGuard\ShieldGuard\obj\Debug\ShieldGuard.csprojAssemblyReference.cache
+C:\Users\ThePzFew\source\repos\ShieldGuard\ShieldGuard\obj\Debug\ShieldGuard.csproj.CoreCompileInputs.cache
+C:\Users\ThePzFew\source\repos\ShieldGuard\ShieldGuard\obj\Debug\ShieldGuard.exe
+C:\Users\ThePzFew\source\repos\ShieldGuard\ShieldGuard\obj\Debug\ShieldGuard.pdb
+C:\Users\ThePzFew\source\repos\ShieldGuard\ShieldGuard\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ThePzFew\source\repos\ShieldGuard\ShieldGuard\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ThePzFew\source\repos\ShieldGuard\ShieldGuard\obj\Debug\ShieldGuard.csproj.CopyComplete
